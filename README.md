@@ -1,6 +1,6 @@
 # githyperlink
 
-Get a link to the hosted html version of a git-tracked file or directory.
+Get a link to the web version of a git-tracked file or directory.
 
 This is relevant only for git remotes that serve such pages, like github and gitlab.
 
